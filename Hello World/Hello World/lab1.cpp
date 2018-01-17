@@ -8,7 +8,7 @@ using namespace std;
 // RETURN: the greatest common denominator of a and b.
 int gcd(const int a, const int b)
 {
-	// Replace this line with your code (have fun!).
+	
 	int numberA{ a };
 	int numberB{ b };
 	if (a == b) {
